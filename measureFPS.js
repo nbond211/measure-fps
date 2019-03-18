@@ -16,7 +16,7 @@
   visFpsData.style.cssText = "font-size: 24px;margin-right: 10px";
 
   const frontendFpsLabel = document.createElement("p");
-  frontendFpsLabel.innerHTML = "Front-End Speed:";
+  frontendFpsLabel.innerHTML = "Front-end Speed:";
   frontendFpsLabel.style.cssText = "margin: 0;font-size: 10px;display: flex;align-items: center;letter-spacing: 1px;font-family: sans-serif; margin-top: 15px;";
 
   const frontendFpsText = document.createElement("p");
