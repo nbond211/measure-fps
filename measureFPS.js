@@ -12,7 +12,7 @@
   visFpsText.style.cssText = "margin: 0;font-size: 14px;display: flex;align-items: center;letter-spacing: 1px;font-family: sans-serif;";
 
   const visFpsData = document.createElement("span");
-  visFpsData.setAttribute("id", "vis-fps-element");
+  visFpsData.setAttribute("id", "fps-element");
   visFpsData.style.cssText = "font-size: 24px;margin-right: 10px";
 
   const frontendFpsLabel = document.createElement("p");
